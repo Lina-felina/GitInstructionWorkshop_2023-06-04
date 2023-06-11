@@ -1,5 +1,7 @@
 # Инструкция по работе с git
 
+
+222
 ## Seminar 1
 
 *git init* - initialize local repository
